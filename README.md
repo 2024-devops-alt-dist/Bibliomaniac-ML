@@ -51,3 +51,10 @@ Clonez le dépôt pour explorer les fichiers du projet localement :
 ```bash
 git clone https://github.com/2024-devops-alt-dist/Bibliomaniac-ML
 cd Bibliomaniac-ML
+```
+
+## Liens
+
+Figma (Wireframe et Mock-Up) : https://www.figma.com/design/F3YpgO2ihTVI9VHs5cfIXR/Biblioth%C3%A8que-Num%C3%A9rique-%22Bibliomaniac%22?node-id=10-766&t=pATO2nVDUH0WYskl-1
+
+FigJam (Diagramme d'activité) : https://www.figma.com/board/7RHzxBr1D92guHGIXe4Rk2/Activity-Diagram-%22Bibliomaniac%22?node-id=0-1&t=pATO2nVDUH0WYskl-1
