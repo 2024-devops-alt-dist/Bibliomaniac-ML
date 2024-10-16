@@ -18,9 +18,9 @@ Voici un aperçu des différents écrans recréés :
   
   ![Wireframe desktop](./images/Wireframe%20biblio%20desktop.png)
 
-### 2. Prototypage pour desktop
+### 2. Prototypage mobile
 
-Deux des six écrans ont été déclinés pour un usage sur desktop, en prenant en compte les particularités de cette plateforme, comme l'ergonomie et la disposition des éléments.
+Six écrans ont été déclinés pour un usage mobile, en prenant en compte les particularités de cette plateforme, comme l'ergonomie et la disposition des éléments.
 
 Voici un mock-up de l'écran de la bibliothèque :
 
